@@ -1,6 +1,6 @@
 # Binary-Search-Trees
 
-- A project from (The Odin Project curriculum)[https://www.theodinproject.com/lessons/javascript-binary-search-trees].
+- A project from [The Odin Project curriculum](https://www.theodinproject.com/lessons/javascript-binary-search-trees).
 - The objective is to construct a balanced binary search tree data structure that is capable of storing, retrieving, deleting and traversing the data.
 
 ## What I learned
